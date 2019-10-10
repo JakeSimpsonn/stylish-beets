@@ -1,3 +1,13 @@
+/* --------General------- */
+
+html {
+  font-weight: normal;
+  font-family: "PT Sans";
+  line-height: 1.5
+}
+
+/* --------Body--------- */
+
 body {
   background-color: #c9b5ab;
   font-family: "PT Sans", "PT Serif";
@@ -30,6 +40,7 @@ nav :hover {
   font-weight: normal;
 }
 
-h1 {
-  color: #3f1622
+html {
+  background-color: #c9b5ab;
+  color:
 }
