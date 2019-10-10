@@ -1,4 +1,4 @@
-/* --------General------- */
+/* --------------General------------- */
 
 html {
   font-weight: normal;
@@ -7,7 +7,7 @@ html {
   background-color: #c9b5ab;
 }
 
-/* --------Body--------- */
+/* --------------Body--------------- */
 
 body {
   background-color: #c9b5ab;
@@ -43,6 +43,7 @@ a:hover {
   color: #3f1622;
   text-decoration: underline;
   font-family: "PT Sans";
+  background-color: #c9b5ab;
 }
 
 figcaption {
