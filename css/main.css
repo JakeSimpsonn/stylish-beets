@@ -1,6 +1,6 @@
 body {
   background-color: #c9b5ab;
-  font-family: 'PT Sans', 'PT Serif';
+  font-family: "PT Sans", "PT Serif";
   line-height: 1.5;
 }
 
@@ -9,7 +9,7 @@ img {
 }
 
 h1 {
-  color: #3f1622
+  color: #3f1622;
 }
 
 nav ol {
@@ -26,6 +26,6 @@ nav a:hover {
   text-decoration: underline;
 }
 
-nav a:hover {
+nav :hover {
   font-weight: normal;
 }
