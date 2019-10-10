@@ -43,3 +43,9 @@ a:hover {
   text-decoration: underline;
   font-family: "PT Sans";
 }
+
+figcaption {
+  color: #222;
+  font-family: "PT Serif";
+  text-align: center;
+}
