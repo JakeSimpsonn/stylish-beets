@@ -13,11 +13,19 @@ body {
   font-family: "PT Sans";
 }
 
+body nav {
+  font-size: 1.125rem;
+}
+
+header {
+  font-size: .8rem;
+}
+
 img {
   width: 100%;
 }
 
-h1 {
+h1, h2 {
   color: #3f1622;
 }
 
@@ -25,16 +33,13 @@ nav ol {
   list-style-type: none;
 }
 
-nav a {
+a {
   color: #8f2440;
   text-decoration: none;
 }
 
-nav a:hover {
+a:hover {
   color: #3f1622;
   text-decoration: underline;
-}
-
-nav :hover {
-  font-weight: normal;
+  font-family: "PT Sans";
 }
