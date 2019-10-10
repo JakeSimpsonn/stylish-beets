@@ -10,8 +10,7 @@ html {
 
 body {
   background-color: #c9b5ab;
-  font-family: "PT Sans", "PT Serif";
-  line-height: 1.5;
+  font-family: "PT Sans";
 }
 
 img {
@@ -38,9 +37,4 @@ nav a:hover {
 
 nav :hover {
   font-weight: normal;
-}
-
-html {
-  background-color: #c9b5ab;
-  color:
 }
