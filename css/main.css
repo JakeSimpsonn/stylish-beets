@@ -49,3 +49,22 @@ figcaption {
   font-family: "PT Serif";
   text-align: center;
 }
+
+main {
+  color: #222;
+  font-family: "PT Serif";
+  font-weight: bold;
+}
+
+blockquote {
+  font-family: serif;
+  font-style: italic;
+}
+
+blockquote p {
+  font-size: 1.5rem;
+}
+
+blockquote cite {
+  font-size: .8rem;
+}
