@@ -68,3 +68,19 @@ blockquote p {
 blockquote cite {
   font-size: .8rem;
 }
+
+li {
+  font-family: serif;
+}
+
+dt {
+  font-family: serif;
+}
+
+ol {
+  font-family: serif;
+}
+
+h2 p {
+  font-style: italic;
+}
